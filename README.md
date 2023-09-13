@@ -1,3 +1,9 @@
+Notice
+======
+
+I'm leaving Github. The main official location for this project is now:
+https://codeberg.org/RafaGago/small-project-makefile
+
 # small-project-makefile
 GNU makefile for small-medium sized C or C++ projects
 
